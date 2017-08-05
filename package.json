@@ -1,0 +1,23 @@
+{
+  "name": "talkjs-aug",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stacygohyunsi/talkjs-aug.git"
+  },
+  "author": "Stacy Goh <stacy.gohys@gmail.com> (http://imstacy.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stacygohyunsi/talkjs-aug/issues"
+  },
+  "homepage": "https://github.com/stacygohyunsi/talkjs-aug#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2"
+  }
+}

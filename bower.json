@@ -1,0 +1,21 @@
+{
+  "name": "talkjs-aug",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Stacy Goh <stacy.gohys@gmail.com> (http://imstacy.com)"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/stacygohyunsi/talkjs-aug",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "^3.5.0"
+  }
+}
